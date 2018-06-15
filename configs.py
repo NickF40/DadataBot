@@ -31,17 +31,14 @@ information = ['Тут инфа о сервисе', 'Тут часто зада�
 user_lines = ['inn', 'name']
 
 """
-P: 31.31.196.215
-DB_NAME: u0377751_advdb
-USERNAME: u0377751_adv
-PASSWORD: T1b3U7k4
+
 """
 
-db_configs = dict(host='31.31.196.215', user='u0377751_adv', password='T1b3U7k4', db='u0377751_advdb', charset='utf8mb4',
+db_configs = dict(host='', user='', password='', db='', charset='utf8mb4',
                   cursorclass=pymysql.cursors.DictCursor)
 
 # constants
-TOKEN = '465906974:AAFglQriih4Q8G3sYzTIqixOWdtmArdeWBE'
+TOKEN = ''
 
 # if needed to form invite link
 # BOTNAME = ''
